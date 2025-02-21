@@ -3,6 +3,10 @@
 ## **Overview**  
 This project leverages **Terraform** to automate the provisioning and management of AWS infrastructure across multiple environments, including **development, staging, and production**. It follows **Infrastructure as Code (IaC)** best practices to ensure consistency, scalability, and efficient resource management.  
 
+## Project Diagram : 
+
+![Project-diagram](Multi-Env-Infra-Terraform.png)
+
 ## **Project Structure**  
 ```
 Multi-Env-AWS-Infra-with-Terraform
